@@ -9,7 +9,7 @@
 </p>
 
 Olá, me chamo Diogo, atuamente trabalho como Analista de BI, possuo cerca de 7 anos trabalhando com BI & dados, tendo também experiência em Planejamento estratégico.
-Portanto, teho forte bagagem em transformar dados em informações estratégicas, tendo atuado em condatato e desenvolvimento de análises para diversas áreas como Marketing, Planejamento, Comercial, Supply e Performance de vendas.
+Portanto, teho forte bagagem em transformar dados em informações estratégicas, tendo atuado no desenvolvimento de análises para diversas áreas como Marketing, Planejamento, Comercial, Supply e Performance de vendas.
 
 🚀 Estou focado em:
 - Aprimorar minhas habilidades em ciência de dados (atualmente foco do repositório)
